@@ -32,3 +32,6 @@ Create an issue or contact me at the details below
 
 Check out my [GitHub profile](https://github.com/yanghuixi1)!
 If you have any questions or concerns, feel free to email me at <yanghui.xi1@gmail.com>
+
+## Link to Deployed Application:
+https://yanghuixi-note-taker.herokuapp.com/
